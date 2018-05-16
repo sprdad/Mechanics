@@ -18,3 +18,6 @@ You can find the OnShape model for the default frame here:
 You can find the OnShape model for the bolt togehter frame here:
 
 [Bolt Together Frame OnShape Model](https://cad.onshape.com/documents/541f931ef1cd300726f54cf3/w/2e46e46e415d8c274b77c05c/e/bbd5cb914ffed6d673f649a3)
+
+
+https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=MaslowCNC%20functional%20block%20diagram.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fsprdad%2FMechanics%2Fmaster%2FMaslowCNC%2520functional%2520block%2520diagram.xml
